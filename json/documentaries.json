@@ -1,0 +1,25 @@
+{
+    "documentaries": [
+        {
+            "id": 1,
+            "poster": "https://m.media-amazon.com/images/M/MV5",
+            "tittle": "My Octopus Teacher",
+            "year": "2020",
+            "length": "1h 25m",
+            "director": "Pippa Ehrlich, James Reed",
+            "synopsis": "A filmmaker forges an unusual friendship with an octopus living in a South African kelp forest, learning as the animal shares the mysteries of her world."
+        },
+        {
+            "title": "Planet Earth II",
+            "year": 2016,
+            "director": "David Attenborough",
+            "description": "A documentary series exploring the beauty and diversity of life on Earth, showcasing stunning visuals and captivating storytelling."
+        },
+        {
+            "title": "Free Solo",
+            "year": 2018,
+            "director": "Elizabeth Chai Vasarhelyi, Jimmy Chin",
+            "description": "A film that follows rock climber Alex Honnold as he attempts to climb El Capitan without any ropes or safety gear."
+        }
+    ]
+}
