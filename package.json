@@ -1,4 +1,11 @@
 {
     "name": "Brandon",
     "version": "1.0.0",
+    "description": "A simple Node.js project to demonstrate package.json",
+    "main": "index.html",
+    "dependencies": {
+
+    },
+    "author": "",
+    "license": "ISC"
 }
