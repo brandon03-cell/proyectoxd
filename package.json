@@ -4,7 +4,7 @@
     "description": "A simple Node.js project to demonstrate package.json",
     "main": "index.html",
     "dependencies": {
-
+        "json-server": "^1.0.0-beta.15"
     },
     "author": "",
     "license": "ISC"
